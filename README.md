@@ -1,2 +1,3 @@
-# Quant-Research-projects
-Quant research projects where I apply probability and stats concepts like Expected value, Conditional Probability, etc using Python. Also try to visualize and learn as I build them.
+# Quant Research Projects
+
+Quant research projects where I apply probability and statistics concepts such as Expected Value, Conditional Probability, and Variance using Python. The goal is to build intuition through hands-on implementation, visualization, and experimentation.
